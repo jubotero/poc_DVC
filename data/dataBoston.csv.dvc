@@ -1,0 +1,7 @@
+md5: 59bacca737ab7d58d3ffab7e22cd609e
+outs:
+- md5: c97ea02b2635c3a82f59066ada8d6f53
+  path: dataBoston.csv
+  cache: true
+  metric: false
+  persist: false
